@@ -1,2 +1,5 @@
 # loteria
-Gerador de números da loteria federal
+Este é um Gerador de números da loteria federal via web
+
+Para rodar localmente tenha o xammp instalado
+
